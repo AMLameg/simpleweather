@@ -1,5 +1,6 @@
 # simpleweather
-simple weather application, pulls data from MetOffice data centre
+simple weather application, uses PySimpleGUI for the GUI element, ElementTree for XML data parsing, and requests for connection
+
 
 IMPORTANT:
 
@@ -15,3 +16,5 @@ api_key = [your_api_key]
 Replace [your_api_key] with the API key that you got from Datapoint
 
 Note: I am aware that it's slow and will work on it in the future
+
+######### check Requirements.txt for specific version requirements #############
