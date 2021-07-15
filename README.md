@@ -12,7 +12,7 @@ To use the app, make a notepad file and click [Save As] and call the file '.env'
 In the file, type the following:
 
 api_key = [your_api_key]
-
+_____________________________________________________________________________________________________________
 Replace [your_api_key] with the API key that you got from Datapoint
 
 Note: I am aware that it's slow and will work on it in the future
